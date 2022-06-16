@@ -12,10 +12,7 @@ Company Capstone Project<br>
 - [Cloud Computing]
 
 ## Demo
-
-<p align="center">
-  <img src="https://iili.io/heVJsV.gif">
-</p>
+![App Demo](https://iili.io/heVJsV.gif)
 
 Click this link to try this app! [RePlasc](https://drive.google.com/drive/folders/1ZW9ReptYeA2W9g5EY2M02BXarQc0W6GS?usp=sharing)
 
