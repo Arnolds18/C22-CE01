@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">RePLASC</string>
+    <string name="nama_apk">rePLASC</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="bt_login">Login</string>
+    <string name="tv_register"><u>Create an account</u></string>
+    <string name="hint_telp">Phone Number</string>
+    <string name="hint_name">Name</string>
+    <string name="tv_daftarAkun">Register</string>
+    <string name="hint_konfirmasiPassword">Password Confirmation</string>
+    <string name="pindai_sampah">Scan trash</string>
+    <string name="sudah_buang_sampahkah_hari_ini"><u>Have you taken out your trash today?</u></string>
+    <string name="lokasi_spesial_booth_terdekat"><u>Nearest Booth Location</u></string>
+    <string name="info_terbaru"><u>Latest News</u></string>
+    <string name="historytitle">History</string>
+    <string name="usertext">User</string>
+    <string name="ubah_pin">Change Pin</string>
+    <string name="general_text">General</string>
+    <string name="bahasa">Language</string>
+    <string name="tema">Theme</string>
+    <string name="kode_refferal">Referral Code</string>
+    <string name="tentang_aplikasi">About App</string>
+    <string name="hapus_akun">Delete Account</string>
+    <string name="kredit">Credit</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="tv_edtProfile">Edit Profile</string>
+    <string name="tv_editname">Name</string>
+    <string name="tv_editemail">Email</string>
+    <string name="hint_editnotelp">Phone Number</string>
+    <string name="edt_editalamat">Address</string>
+    <string name="hint_edtname">Name</string>
+    <string name="hint_edtemail">Email</string>
+    <string name="tv_editalamat">Address</string>
+    <string name="tv_editnotelp">Phone Number</string>
+    <string name="bt_konfirmasiedit">Confirmation</string>
+    <string name="bt_googlesignin">Google Sign-in</string>
+    <string name="halaman_utama">Main Page</string>
+    <string name="market">Market</string>
+    <string name="pengaturan">Settings</string>
+    <string name="log_out">Log Out</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="wasteList">Your Waste List</string>
+    <string name="plastic_type">Plastic Type</string>
+    <string name="weight_kg">Weight/Kg</string>
+    <string name="bt_up">Next</string>
+    <string name="list_photos_title">List Photos</string>
+
+    <string name="detailhistory">Detail</string>
+    <string name="plasticweight">Weight/kg</string>
+    <string name="trash_barcode">Trash Barcode</string>
+
+</resources>
