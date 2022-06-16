@@ -14,7 +14,7 @@ Company Capstone Project<br>
 ## Demo
 
 <p align="center">
-  <img src="https://freeimage.host/i/heMRNj"/>
+  <img src="https://iili.io/heMRNj.gif">
 </p>
 
 Click this link to try this app! [RePlasc](https://drive.google.com/drive/folders/1ZW9ReptYeA2W9g5EY2M02BXarQc0W6GS?usp=sharing)
