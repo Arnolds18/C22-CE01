@@ -9,7 +9,7 @@ Company Capstone Project<br>
 
 - [Machine Learning](https://github.com/Arnolds18/Bangkit-Capstone-Project-ML)
 - [Mobile Development](https://github.com/chesianatalia/Bangkit-Capstone-Project)
-- [Cloud Computing]
+- [Cloud Computing](https://github.com/renakaagusta/capstone-ioh-backend)
 
 ## Demo
 ![App Demo](https://iili.io/heVJsV.gif)
