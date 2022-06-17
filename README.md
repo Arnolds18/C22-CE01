@@ -12,7 +12,7 @@ Company Capstone Project<br>
 - [Cloud Computing](https://github.com/renakaagusta/capstone-ioh-backend)
 
 ## Demo
-![App Demo](https://iili.io/heVJsV.gif)
+![App Demo](https://i.postimg.cc/2SBFTNRP/re-Plasc-Full-Logo-Horizon.png)
 
 Click this link to try this app! [RePlasc](https://drive.google.com/drive/folders/1ZW9ReptYeA2W9g5EY2M02BXarQc0W6GS?usp=sharing)
 
